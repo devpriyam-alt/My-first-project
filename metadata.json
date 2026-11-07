@@ -1,0 +1,6 @@
+{
+  "name": "Karnataka Trip Match",
+  "description": "Dark-mode travel companion matching platform for Karnataka and South India destinations with custom itinerary generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
